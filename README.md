@@ -1,29 +1,14 @@
 # RECONOCEDOR DE TIPOS DE ANIMALES UTILIZANDO LA API DE TENSORFLOW
-##PRIMER INTERACION DEL PROYECTO 
-#PASOS NECESARIOS PARA EJECUTAR 
-###1. DESCARGAR E INSTALAR EL PROGRAMA DE ANACONDA
-###2. DESPUES CREAMOS NUESTRO ENTORNO VIRTUAL EN EL SOFTWARE DE ANACONDA
-###3. DESCARGAR LAS SIGUIENTES LIBRERIAS PARA COMPLEMENTAR ANACONDA 
-Esto se realiza desde el promt de anaconda
-A.pycocotools
-B.pandas
-c.pillow
-D. matplotlib
-E.tensorflow version 1.14
-F.numpy version 1.16.4
-###4sabe que mano ya me aburri de esperar tengo una mejor idea vea esto listo yat iene la estructura solo cambie lo que dice y borre una que otra cosita por allidespues lo subo esta bien va mano y cuando era el ultimo dia pa subir esto pues no era mañana  viejo esque yo tambien ya estoy cansado viejo mano yo se pero el ultimo dia es hoy a las 12 o lo manda o santos no le va a valer sus puntos y desoyes donde lo tengo que subir al blackboard simon  entonces ai estamos dele valla a descanzar yo lo termino y lo envio gracias por su ayuda ai pasa felis noche viejo que usted ya esta mas desvelado que yo incluso va solo voy a hacer una ultima cosa 
-# reconocimiento de vehiculos con tensorflow
-## primer entregable
+
+## MI PRIMER INTREGABLE DE MI DETECTOR DE ANIMALES 
 Para este proyecto se utilizara un modelo preentrenado de Tensorflow el cual se llama: faster_rcnn_resnet101_coco
 
-# como ejecutar este proyecto 
+# PASOS PARA EJECUTAR EL PROYECTO
 
-## lo necesairo
+### 1. DEBEMOS DE CLONAR EL REPOSITORIO
 
-### 1. clonar este repositorio
-
-### 2. completar el modelo 
-###### para esto es necesario descargar las carpetas ["modelo y modelo congelado"](https://drive.google.com/drive/folders/1OHRv3jrybEzI392G229zrnB6dS3AiiJd?usp=sharing) y pegarlas  adentro del directorio deteccion de objetos
+### 2. PASO NO.2 DEBEMOS DE COMPLEMENTAR EL MODELO
+###### para esto es necesario descargar las carpetas ["modelo y modelo congelado"](https://drive.google.com/drive/folders/1OHRv3jrybEzI392G229zrnB6dS3AiiJd?usp=sharing) abrir la carpeta de  deteccion y pegarla ai
 
 ### 3. tener instalado [Anaconda](https://www.anaconda.com/products/individual) 
 Anaconda es un programa el cual nos sirve para crear distintos entornos en nuestra computadora para la instalacion de librerias
