@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>deforestacion-guacamaya-azul.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\deforestacion-guacamaya-azul.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guacamaya</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>122</ymin>
+			<xmax>769</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

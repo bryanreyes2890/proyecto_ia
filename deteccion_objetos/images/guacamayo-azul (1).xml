@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>guacamayo-azul (1).jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\guacamayo-azul (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>257</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guacamaya</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>12</ymin>
+			<xmax>296</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

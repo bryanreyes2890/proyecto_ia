@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Anodorhynchus_hyacinthinus_-Disney_-Florida-8.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\Anodorhynchus_hyacinthinus_-Disney_-Florida-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2123</width>
+		<height>3153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guacamaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>196</ymin>
+			<xmax>1685</xmax>
+			<ymax>2709</ymax>
+		</bndbox>
+	</object>
+</annotation>

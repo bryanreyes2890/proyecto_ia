@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>g2.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\g2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1366</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guacamaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>25</ymin>
+			<xmax>1207</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

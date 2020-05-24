@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>parrot_ara_rainbow_parrot_bird_beak_animals_color_zoo-1051731 (1).jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\parrot_ara_rainbow_parrot_bird_beak_animals_color_zoo-1051731 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>862</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guacamaya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>89</ymin>
+			<xmax>1099</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>
