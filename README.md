@@ -11,7 +11,7 @@ Para este proyecto se utilizara un modelo preentrenado de Tensorflow el cual se 
 ###### para esto es necesario descargar las carpetas ["modelo y modelo congelado"](https://drive.google.com/drive/folders/1OHRv3jrybEzI392G229zrnB6dS3AiiJd?usp=sharing) abrir la carpeta de  deteccion y pegarla ai
 
 ### 3. tener instalado [Anaconda](https://www.anaconda.com/products/individual) 
-Anaconda es un programa el cual nos sirve para crear distintos entornos en nuestra computadora para la instalacion de librerias
+este programa es indispensable para crear diferentes entornos  y poder montar nuestras librerias
 
 ### 4. [crear un entorno virtual en anaconda](https://riptutorial.com/es/python/example/10797/realizacion-de-entornos-virtuales-utilizando-anaconda-)
 
@@ -47,8 +47,7 @@ con los comandos w y control+s seleccionamos y guardamos nuestras etiquetas
 ### 11. DEBEMOS DE COMENZAR CON NUESTRO ENTRENAMIENTO
 ###### Debemos de utilizar el siguiente comando en el promt
 ###### python object_detection/train.py --logtostderr --train_dir=train --pipeline_config_path=modelo/faster_rcnn_resnet101_coco.config
-permitimos que el modelo entrene hasta que llegue a tener una perdida maxima del 0.9 para poder tener un modelo con una buena exactitud
-a mayor entrenamiento mayor sera la exactitud del model para detener el entrenamiento usar ctrl+C
+esperamos hasta que nuestro modelo entrene lo suficiente aunque en promedio en una maquina core i5 de 10 generacion que tengo me tardo un aproximado de 8 horas para complementar 2315 pasos eso significaria que tenemos que contar con mas de  80 horas sin parar para entrenar al 100 % el modelo pero lo que isimos es parar el modelo a un nivel de exactitud considerable
 
 ### 12. AHORA CREAMOS NUESTRO MODELO CONGELADO
 ###### en el promt utilizar el siguiente comando:
