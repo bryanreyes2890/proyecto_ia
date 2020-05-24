@@ -76,3 +76,9 @@ a mayor entrenamiento mayor sera la exactitud del model para detener el entrenam
 ###### 3. el resultado de la prediccion se encontrara en la carpeta deteccion_objetos>output>imp_pruebas
 
 ## ejemplo del funcionamiento 
+![fotos-de-guacamayas-9 jpg imgo](https://user-images.githubusercontent.com/36108193/82746063-f31a1380-9d48-11ea-8069-909677724933.jpeg)
+![0002-16 (1) jpg imgo](https://user-images.githubusercontent.com/36108193/82746064-f44b4080-9d48-11ea-9d94-141e68fd18d7.jpeg)
+
+
+
+
