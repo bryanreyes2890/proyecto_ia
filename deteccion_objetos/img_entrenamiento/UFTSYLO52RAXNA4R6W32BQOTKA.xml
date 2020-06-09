@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>UFTSYLO52RAXNA4R6W32BQOTKA.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\UFTSYLO52RAXNA4R6W32BQOTKA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>528</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guacamaya</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>1</ymin>
+			<xmax>888</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

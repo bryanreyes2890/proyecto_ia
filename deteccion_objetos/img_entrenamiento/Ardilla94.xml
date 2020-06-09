@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Ardilla94.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\Ardilla94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ardilla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>50</ymin>
+			<xmax>172</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

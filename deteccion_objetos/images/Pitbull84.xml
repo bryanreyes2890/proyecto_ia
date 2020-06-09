@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pitbull84.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\Pitbull84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>234</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Perro Pitbull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>7</ymin>
+			<xmax>200</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

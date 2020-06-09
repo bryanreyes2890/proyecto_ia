@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>235147-original-Jirafa.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\235147-original-Jirafa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jirafa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>55</ymin>
+			<xmax>1011</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+</annotation>

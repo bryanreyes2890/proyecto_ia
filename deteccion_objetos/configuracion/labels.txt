@@ -1,2 +1,6 @@
 null
 guacamaya
+Ardilla
+Jirafa
+Gato
+Perro Pitbull

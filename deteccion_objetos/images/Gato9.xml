@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Gato9.jpg</filename>
+	<path>C:\Users\Bryan Reyes\Desktop\proyecto\deteccion_objetos\images\Gato9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>9</ymin>
+			<xmax>198</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

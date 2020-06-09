@@ -2,5 +2,21 @@ item {
   id: 1
   name: 'guacamaya'
 }
+item {
+  id: 2
+  name: 'Ardilla'
+}
+item {
+  id: 3
+  name: 'Jirafa'
+}
+item {
+  id: 4
+  name: 'Gato'
+}
+item {
+  id: 5
+  name: 'Perro Pitbull'
+}
 
 
