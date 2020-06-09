@@ -65,7 +65,7 @@ esperamos hasta que nuestro modelo entrene lo suficiente aunque en promedio en u
 
 ## Segundo entregable 
 ### 1. obtencion de imagenes
-para el segundo entregable lo que se realizo fue conseguir imagenes de todos los tipos de vehiculos solicitados los cuales son:
+para el segundo entregable lo que se realizo fue conseguir imagenes de todos los animales solicitados los cuales fueron:
 #### 1.Ardilla
 #### 2.Guacamaya
 #### 3.Pitbull
