@@ -112,9 +112,11 @@ crear los nuevos archivos .CSV y .Record
 ###### python object_detection/train.py --logtostderr --train_dir=train --pipeline_config_path=modelo/faster_rcnn_resnet101_coco.config
 permitimos que el modelo entrene hasta que llegue a tener una perdida maxima del 0.9 para poder tener un modelo con una buena exactitud
 a mayor entrenamiento mayor sera la exactitud del model para detener el entrenamiento usar ctrl+C para este segundo entregable se entreno
-el modelo durante 4,633 pasos como podemos ver acontinuacion 
+el modelo durante 7,190 pasos como podemos ver acontinaucion
 
--------------------------------------------
+![WhatsApp Image 2020-05-30 at 6 33 45 AM (1)](https://user-images.githubusercontent.com/36108193/84105920-f9f68680-a9d6-11ea-9f54-7b128d0a3fa3.jpeg)
+
+![WhatsApp Image 2020-05-30 at 6 37 40 AM](https://user-images.githubusercontent.com/36108193/84105922-fc58e080-a9d6-11ea-840f-8f4818194b4d.jpeg)
 
 ### 8. congelado del nuevo modelo 
 ###### en el promt utilizar el siguiente comando:
