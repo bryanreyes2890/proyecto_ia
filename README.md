@@ -71,11 +71,12 @@ para el segundo entregable lo que se realizo fue conseguir imagenes de todos los
 #### 3.Pitbull
 #### 4.Jirafa
 #### 5.Gato
+
 ### 2. configuracion de label_map.pbtxt
 en este archivo se encuentra en deteccion_objetos>configuracion la siguiente estructura:
 ###### .item {
 ######  id: 1
-######  name: 'moto'
+######  name: 'Gato'
 ###### }
 
 este objeto consta de 2 campos los cuales son id y name en los cuales se debe escribir el id y nombre de cada una de las etiequetas
@@ -84,11 +85,11 @@ este objeto consta de 2 campos los cuales son id y name en los cuales se debe es
 este archivo se encuentra en deteccion_objetos>configuracion y es un archivo de texto en el cual se debe indicar todas las etiquetas 
 que se utilizaran en este caso son 5
 ###### 0.null
-###### 1.pickup
-###### 2.bus
-###### 3.camion
-###### 4.mototaxi
-###### 5.moto
+###### 1.Gato
+###### 2.Pitbull
+###### 3.Jirafa
+###### 4.Guacamaya
+###### 5.Ardilla
 
 la primera linea siempre debe ser null
 ### 4. configurar numero de clases en el archivo faster_rcnn_resnet101_coco.config
@@ -116,22 +117,18 @@ el modelo durante 7,190 pasos como podemos ver acontinaucion
 
 ![WhatsApp Image 2020-05-30 at 6 33 45 AM (1)](https://user-images.githubusercontent.com/36108193/84105920-f9f68680-a9d6-11ea-9f54-7b128d0a3fa3.jpeg)
 
-![WhatsApp Image 2020-05-30 at 6 37 40 AM](https://user-images.githubusercontent.com/36108193/84105922-fc58e080-a9d6-11ea-840f-8f4818194b4d.jpeg)
 
 ### 8. congelado del nuevo modelo 
 ###### en el promt utilizar el siguiente comando:
 ###### python object_detection/export_inference_graph.py --input_type image_tensor --pipeline_config_path modelo/faster_rcnn_resnet101_coco.config  --trained_checkpoint_prefix train/model.ckpt-684 --output_directory modelo_congelado
+
+![WhatsApp Image 2020-05-30 at 6 37 40 AM](https://user-images.githubusercontent.com/36108193/84105922-fc58e080-a9d6-11ea-840f-8f4818194b4d.jpeg)
 
 ### 9. probar el modelo 
 ###### 1. para probar el modelo debemos pegar las imagenes en las que querramos reconocer objetos en la carpeta deteccion_objetos>imp_pruebas
 ###### 2. en el promt utilizar el siguiente comando: python object_detection/object_detection_runner.py
 ###### 3. el resultado de la prediccion se encontrara en la carpeta deteccion_objetos>output>imp_pruebas
 #### reconociendo 
--------------------------------------------
-## RESULTADOS DEL SEGUNDO ENTREGABLE 
 
--------------------------------
----------------------------------
------------------------------
-----------------------------------
+## RESULTADOS DEL SEGUNDO ENTREGABLE 
 
