@@ -132,3 +132,16 @@ el modelo durante 7,190 pasos como podemos ver acontinaucion
 
 ## RESULTADOS DEL SEGUNDO ENTREGABLE 
 
+![deforestacion-guacamaya-azul (15)](https://user-images.githubusercontent.com/36108193/84106174-ad5f7b00-a9d7-11ea-8de3-37829b91cfda.jpeg)
+![descarga (1)eee](https://user-images.githubusercontent.com/36108193/84106177-b05a6b80-a9d7-11ea-9019-c0d5ee2fdfdf.jpeg)
+![Pitbull66](https://user-images.githubusercontent.com/36108193/84106179-b18b9880-a9d7-11ea-839d-dde04357bd80.jpeg)
+![5-curiosidades-de-la-jirafa-1-655x368 (1)](https://user-images.githubusercontent.com/36108193/84106183-b2bcc580-a9d7-11ea-801f-e8e36895f8c0.jpeg)
+![5-curiosidades-de-la-jirafa-1-655x368 (3)](https://user-images.githubusercontent.com/36108193/84106186-b3edf280-a9d7-11ea-9a51-e5449b7b5fa2.jpeg)
+![59802d52c75f06da41524bfa8ea90d26 (1)](https://user-images.githubusercontent.com/36108193/84106189-b5b7b600-a9d7-11ea-99cc-53a1eafc62b4.jpeg)
+![235147-original-Jirafa (12)](https://user-images.githubusercontent.com/36108193/84106193-b6e8e300-a9d7-11ea-8f34-5b9594c380b0.jpeg)
+![Ardilla46](https://user-images.githubusercontent.com/36108193/84106196-b81a1000-a9d7-11ea-9a0a-45efbdd0cc1a.jpeg)
+![Ardilla76](https://user-images.githubusercontent.com/36108193/84106200-b94b3d00-a9d7-11ea-9c51-c004947bc2f2.jpeg)
+![deforestacion-guacamaya-azul (1)](https://user-images.githubusercontent.com/36108193/84106203-ba7c6a00-a9d7-11ea-8fd4-dc427dcd78fb.jpeg)
+![deforestacion-guacamaya-azul (10)](https://user-images.githubusercontent.com/36108193/84106208-bbad9700-a9d7-11ea-844f-461fb044f979.jpeg)
+![deforestacion-guacamaya-azul (13)](https://user-images.githubusercontent.com/36108193/84106211-bcdec400-a9d7-11ea-911b-4b91eb03b7bd.jpeg)
+![deforestacion-guacamaya-azul (14)](https://user-images.githubusercontent.com/36108193/84106213-bd775a80-a9d7-11ea-978f-d629ae64f17d.jpeg)
