@@ -66,11 +66,11 @@ esperamos hasta que nuestro modelo entrene lo suficiente aunque en promedio en u
 ## Segundo entregable 
 ### 1. obtencion de imagenes
 para el segundo entregable lo que se realizo fue conseguir imagenes de todos los tipos de vehiculos solicitados los cuales son:
-#### 1.pickup
-#### 2.bus
-#### 3.camion
-#### 4.mototaxi
-#### 5.moto
+#### 1.Ardilla
+#### 2.Guacamaya
+#### 3.Pitbull
+#### 4.Jirafa
+#### 5.Gato
 ### 2. configuracion de label_map.pbtxt
 en este archivo se encuentra en deteccion_objetos>configuracion la siguiente estructura:
 ###### .item {
